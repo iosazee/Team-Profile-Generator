@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules
+
+# Vscode settings
+.vscode
+
+# project info
+INSTRUCTIONS.md
+
+# assets
+assets/*
+!assets/14-object-orirnted-programming-challenge-demo.png
