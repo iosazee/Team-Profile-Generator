@@ -83,7 +83,7 @@ const generateTeam = team => {
 module.exports = team => {
 
     return `
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
