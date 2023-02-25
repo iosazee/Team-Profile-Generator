@@ -41,7 +41,7 @@ There are several tests provided to test that the various employee classes meet 
 
 ## Questions
 
-If you have any questions you can contact me at [this email]](iosazee1@gmail.com).
+If you have any questions you can contact me at [this email](iosazee1@gmail.com).
 
 You can see more of my work at [my github's profile](https://github.com/iosazee).
 
