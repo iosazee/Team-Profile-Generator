@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(0.25turn, #f3f0f3, #D6ABC3);
+}
+
+.team-heading {
+    background: linear-gradient(to right, #9AC500, #C0D0E9, #7BA654);
+    color: #000fff;
+}
+
+.card {
+    gap: 1rem;
+    margin: 0.5rem;
+    background-color: #FF00E0;
+    width: 300px;
+}
+
+.team-area {
+    flex-wrap: wrap;
+}
+
