@@ -7,9 +7,5 @@ node_modules
 # project info
 INSTRUCTIONS.md
 
-# assets
-assets/*
-!assets/14-object-orirnted-programming-challenge-demo.png
-
 # # output_dir
 # team.html
