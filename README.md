@@ -26,11 +26,21 @@ This is a node.JS application that provides a command line interface for providi
 ## Usage
 
 To use this app, ensure that you are in the folder containing the index.js file, run the command node index.js on the terminal to start the app. You will then be presented with a series of questions, and an HTML page will be generated in the output folder based on your answers to the questions.
-* ![Screenshot of the generated HTML Page](./assets/screenshot.png)
+The screenshot below provides an example of a [sample HTML](./output/team.html) generated using this application.
+* <img src="./assets/screenshot.png" width=600 height=400/>
+* [click here](https://watch.screencastify.com/v/FolEH9AhPMxEQHFFRJrb) for a video demo of this application.
 
 
 ## License
 This project is licensed under the MIT license. Read the fine print of [MIT license](./license)
+
+## Technologies Used
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+- ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+- ![Inquirer](https://img.shields.io/badge/Inquirer-8.2.5-red)
+
 
 
 ## Tests
