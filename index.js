@@ -149,23 +149,16 @@ const addIntern = async() => {
 }
 
 
-const writeToFile =  async (filename, data, msg) => {
-    msg = ''
-    await fs.writeFile(filename, data, (err, msg) =>
-    err ? console.error(err) : console.log(msg))
-
+const writeToFile =  async (filename, data) => {
+    await fs.writeFile(filename, data, (err) =>
+    err ? console.error(err) : console.log('Generating HTML document...'))
   }
 
 
 const createTemplate = () => {
-
     const htmlDocument = render(team)
-
+    writeToFile(outputPath, htmlDocument)
     console.log('Generating HTML document...')
-
-    writeToFile(outputPath, htmlDocument, 'Generating HTML document..')
-
-
 }
 
 
